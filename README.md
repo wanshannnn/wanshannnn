@@ -1,6 +1,8 @@
 #### Hi there, I am wanshannnn👋
 
-我是一个最近正在学习编程的中文系研究生，编程方面目前技术栈集中于前端，爱好四处钻研，欢迎和我交流任何事😋
+编程方面技术栈集中于前端，同时在学习后端和其他计算机知识
+
+目前是中文系的一名研究生，硕士课题是关于 Michel Foucault，曾是理科生，本科金融转中文，爱好四处钻研，欢迎和我交流任何事😋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshannnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
