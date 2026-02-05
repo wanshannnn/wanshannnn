@@ -1,6 +1,6 @@
 #### Hi there, I am wanshannnn👋
 
-primarily a front-end developer 
+software developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshannnn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
